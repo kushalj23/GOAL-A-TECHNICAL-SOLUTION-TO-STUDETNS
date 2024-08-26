@@ -188,10 +188,6 @@ input:checked ~ .toggle .bottom_line{
 input:checked ~ .navbar2{
     transform: translateX(0);
 }
-.othericon{
-    text-align: right;
-    padding-left: 200px;
-}
 .detail1{
     text-align: left;
     font-size:22px;
@@ -201,4 +197,3 @@ input:checked ~ .navbar2{
     text-align: left;
     font-size:22px;
 }
-
